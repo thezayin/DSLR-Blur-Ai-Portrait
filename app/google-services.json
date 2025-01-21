@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307367276223",
+    "project_id": "dslr-blur-ai",
+    "storage_bucket": "dslr-blur-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307367276223:android:2477ade6260d74b7fda00a",
+        "android_client_info": {
+          "package_name": "com.thezayin.dslrblur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh_pApZl-9BdO-zft_ddHiSM6ggsOdLIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
