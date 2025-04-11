@@ -32,7 +32,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.google.firebase.crashlytics.FirebaseCrashlytics
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import ir.kaaveh.sdpcompose.sdp
 
 /**

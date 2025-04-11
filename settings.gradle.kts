@@ -23,13 +23,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "DSLR Blur"
 include(":app")
-include(":common:values")
-include(":common:analytics")
-include(":common:framework")
-include(":common:components")
-include(":start-up")
-include(":gallery:data")
-include(":gallery:domain")
-include(":gallery:presentation")
-include(":feature:background")
-include(":feature:background-blur")

@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import ir.kaaveh.sdpcompose.sdp
 
 @Composable

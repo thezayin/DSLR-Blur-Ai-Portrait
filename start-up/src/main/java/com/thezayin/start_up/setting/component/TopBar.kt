@@ -25,7 +25,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 /**
  * Composable function for displaying a custom top bar with a back button, screen title, and an action button.

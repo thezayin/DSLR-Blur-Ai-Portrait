@@ -13,7 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 /**
  * Top app bar for the Background Blur screen, containing back and download actions.

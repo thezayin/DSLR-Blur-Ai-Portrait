@@ -6,7 +6,7 @@ import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.colorResource
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 /**
  * Dialog that prompts the user to choose the image format for saving.

@@ -34,7 +34,6 @@ android {
 
 dependencies {
     implementation(project(":common:framework"))
-    implementation(project(":gallery:domain"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

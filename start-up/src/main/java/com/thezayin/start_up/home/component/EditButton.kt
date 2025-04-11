@@ -39,7 +39,7 @@ fun EditButton(
             .padding(15.sdp),
         shape = RoundedCornerShape(10.sdp),
         colors = CardDefaults.cardColors(
-            containerColor = colorResource(com.thezayin.values.R.color.woodsmoke)
+            containerColor = colorResource(com.thezayin.dslrblur.R.color.woodsmoke)
         )
     ) {
         Column(
@@ -54,14 +54,14 @@ fun EditButton(
             Icon(
                 imageVector = Icons.Default.Add,
                 contentDescription = null,
-                tint = colorResource(com.thezayin.values.R.color.white),
+                tint = colorResource(com.thezayin.dslrblur.R.color.white),
                 modifier = Modifier.size(30.sdp)
             )
             Text(
                 text = "Edit",
                 fontSize = 14.ssp,
-                fontFamily = FontFamily(Font(com.thezayin.values.R.font.gilroy_bold)),
-                color = colorResource(com.thezayin.values.R.color.white)
+                fontFamily = FontFamily(Font(com.thezayin.dslrblur.R.font.gilroy_bold)),
+                color = colorResource(com.thezayin.dslrblur.R.color.white)
             )
         }
     }

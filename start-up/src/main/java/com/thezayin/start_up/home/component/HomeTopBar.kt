@@ -37,7 +37,7 @@ fun HomeTopBar(
                     onSettingScreenClick()
                 },
             imageVector = Icons.Default.Menu,
-            tint = colorResource(com.thezayin.values.R.color.white),
+            tint = colorResource(com.thezayin.dslrblur.R.color.white),
             contentDescription = null
         )
         Spacer(modifier = Modifier)

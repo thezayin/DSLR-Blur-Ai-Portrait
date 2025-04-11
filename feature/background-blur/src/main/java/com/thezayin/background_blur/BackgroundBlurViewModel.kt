@@ -17,7 +17,7 @@ import com.thezayin.background_blur.event.BackgroundBlurEvent
 import com.thezayin.background_blur.state.BackgroundBlurState
 import com.thezayin.framework.remote.RemoteConfig
 import com.thezayin.framework.session.SessionManager
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

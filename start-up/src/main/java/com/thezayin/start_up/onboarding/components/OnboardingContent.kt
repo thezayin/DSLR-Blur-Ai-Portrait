@@ -11,7 +11,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import com.thezayin.start_up.onboarding.model.OnboardingPage
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 @Composable
 fun OnboardingContent(

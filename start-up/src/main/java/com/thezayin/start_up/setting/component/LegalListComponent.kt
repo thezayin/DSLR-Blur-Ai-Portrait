@@ -27,7 +27,7 @@ import com.thezayin.framework.extension.openLink
 import com.thezayin.framework.extension.sendMail
 import com.thezayin.framework.utils.Constants.PRIVATE_POLICY_URL
 import com.thezayin.framework.utils.Constants.TERMS_CONDITIONS_URL
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 @Preview
 @Composable

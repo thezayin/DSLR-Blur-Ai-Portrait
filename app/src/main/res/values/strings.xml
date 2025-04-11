@@ -1,3 +1,144 @@
 <resources>
     <string name="app_name">DSLR Portrait-AI</string>
+    <string name="ads_title">ad</string>
+    <string name="ad">Ad</string>
+    <string name="save">Save</string>
+    <string name="back_button">Back</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="no_internet_error">No internet connection</string>
+
+    <string name="loading_settings">Loading Settings…</string>
+    <string name="loading">Loading…</string>
+    <string name="finishing_up">Finishing Up…</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="almost_there">Almost There…</string>
+    <string name="enhance">Enhance</string>
+    <string name="enhance_desc">Bring your memories into crystal-clear focus with our Enhance feature!</string>
+
+    <string name="remove_background">Remove Image Backgrounds Easily</string>
+    <string name="remove_background_desc">Create professional, background-free images in seconds.</string>
+
+    <string name="change_background">Give Your Photos a New Background</string>
+    <string name="change_background_desc">Change the background of your photos to make them look more appealing.</string>
+
+    <string name="error_load_original_image">Unable to load the selected image. Please try a different image.</string>
+    <string name="error_load_gallery_image">Unable to load image from the gallery. Please select another image.</string>
+    <string name="error_set_background">An error occurred while setting the background. Please try again.</string>
+    <string name="error_apply_smoothing">Unable to apply smoothing at this time. Please try again.</string>
+    <string name="error_fetch_background_images">Failed to fetch background images. Please check your connection and try again.</string>
+    <string name="error_no_base_image">No base image selected. Please select an image to begin.</string>
+    <string name="error_generic">An unexpected error occurred. Please try again.</string>
+
+    <string name="status_changes_applied">Changes applied successfully</string>
+    <string name="error_missing_images">Background or processed image is missing</string>
+    <string name="error_saving_image">Failed to save merged image</string>
+    <string name="error_merging_images">Failed to merge images</string>
+
+    <string name="status_loading_base_image">Loading base image…</string>
+    <string name="status_image_processing_complete">Image processing complete.</string>
+    <string name="status_failed_load_process_image">Failed to load or process the image.</string>
+    <string name="status_applying_background">Applying selected background…</string>
+    <string name="status_background_applied_successfully">Background applied successfully.</string>
+    <string name="status_applying_drawable_background">Applying drawable background…</string>
+    <string name="status_applying_smoothing">Applying smoothing…</string>
+    <string name="status_smoothing_applied">Smoothing applied.</string>
+    <string name="status_showing_base_image">Showing base image.</string>
+    <string name="status_showing_processed_image">Showing processed image.</string>
+    <string name="content_description_settings">Settings</string>
+    <string name="content_description_processed_image">Processed Image</string>
+    <string name="label_edge_smoothing">Edge Smoothing</string>
+    <string name="label_smoothing_level">Smoothing Level: %1$d</string>
+    <string name="content_description_compare">Compare</string>
+    <string name="error_message_format">Error: %1$s</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_background">Background</string>
+    <string name="label_more">More</string>
+    <string name="content_description_background_image">Background Image</string>
+    <string name="content_description_base_image">Base Image</string>
+    <string name="content_description_back">Back</string>
+    <string name="content_description_apply">Apply</string>
+    <string name="apply">Apply</string>
+    <string name="status_applying_changes">Applying changes…</string>
+
+    <string name="status_loading_image">Loading image…</string>
+    <string name="status_image_loaded">Image loaded</string>
+    <string name="status_applying_blur">Applying blur…</string>
+    <string name="status_blur_applied">Blur applied</string>
+    <string name="status_smoothing_edges">Smoothing edges…</string>
+    <string name="status_edges_smoothed">Edges smoothed</string>
+    <string name="status_saving_image">Saving image…</string>
+    <string name="status_image_saved_png">Image saved as PNG!</string>
+    <string name="status_image_saved_jpeg">Image saved as JPEG!</string>
+
+    <string name="error_load_image">Unable to load the selected image. Please try a different image.</string>
+    <string name="error_apply_blur">Failed to apply blur.</string>
+    <string name="error_smooth_edges">Failed to smooth edges.</string>
+    <string name="error_no_image_to_save">No image to save.</string>
+    <string name="error_save_image">Failed to save image.</string>
+
+    <string name="edge_smoothness_label">Edge Smoothness:</string>
+    <string name="blur_intensity_label">Blur Intensity:</string>
+
+    <string name="color">Color</string>
+    <string name="format">Format</string>
+    <string name="font">Font</string>
+    <string name="brush">Brush</string>
+    <string name="pan">Pan</string>
+    <string name="zoom">Zoom</string>
+    <string name="shape">Shape</string>
+    <string name="eraser">Eraser</string>
+    <string name="crop">Crop</string>
+    <string name="draw">Draw</string>
+    <string name="text">Text</string>
+    <string name="effects">Effects</string>
+    <string name="width">Width</string>
+    <string name="opacity">Opacity</string>
+    <string name="done">Done</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="enter_your_text">Enter your text</string>
+
+    <string name="pick_image">Pick Image</string>
+    <string name="capture_image">Capture Image</string>
+
+    <string name="saving_image">Saving Image</string>
+    <string name="image_saved_successfully">Image Saved Successfully</string>
+    <string name="failed_to_save_image">Failed to save image</string>
+
+    <string name="permission_required">Permission Required</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="okay">Okay</string>
+    <string name="storage_permission_rationale">This app needs storage permission to be able to save the edited media files in your device.</string>
+    <string name="storage_permission_permanently_declined">It seems you permanently declined storage permission. You can grant it in app settings.</string>
+    <string name="following_permissions_are_required">Following permissions are required to perform this action:\n</string>
+    <string name="perm_item_storage">- Storage\n</string>
+    <string name="app_not_found">App not found</string>
+    <string name="fail_to_insert_uri_in_content_resolver">Couldn\'t insert uri in content resolver</string>
+    <string name="enter_aspect_ratio">Enter Aspect Ratio</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="select">Select</string>
+    <string name="not_a_valid_number">Not a valid number</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+    <string name="ratio_lesser_than_minimum">Ratio is lesser than minimum allowed</string>
+    <string name="ratio_greater_than_minimum">Ratio is greater than maximum allowed</string>
+
+    <string name="blur_natural">Natural DSLR-like Blur</string>
+    <string name="blur_natural_desc">Achieve professional, DSLR-quality background blurs effortlessly.</string>
+
+    <string name="blur_intensity">Adjust Blur Intensity</string>
+    <string name="blur_intensity_desc">Customize the strength of your background blur to perfection.</string>
+
+    <string name="adjust_edge_smoothness">Adjust Edge Smoothness</string>
+    <string name="adjust_blur_intensity">Adjust Blur Intensity</string>
+
+    <string name="smooth_edge">Smooth Edges</string>
+    <string name="smooth_edges">Smooth Edge Blurring</string>
+    <string name="smooth_edges_desc">Ensure seamless and natural edges with our advanced smoothing technology.</string>
+
+    <string-array name="loading_steps">
+        <item>AI is analyzing the image…</item>
+        <item>Removing background…</item>
+        <item>Finalizing…</item>
+    </string-array>
 </resources>

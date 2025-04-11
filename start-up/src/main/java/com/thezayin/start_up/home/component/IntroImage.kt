@@ -28,7 +28,7 @@ fun IntroImage(
         shape = RoundedCornerShape(10.sdp)
     ) {
         Image(
-            painter = painterResource(com.thezayin.values.R.drawable.bg_intro),
+            painter = painterResource(com.thezayin.dslrblur.R.drawable.bg_intro),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop

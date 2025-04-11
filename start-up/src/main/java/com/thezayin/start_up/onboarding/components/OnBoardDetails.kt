@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.style.TextAlign
 import com.thezayin.start_up.onboarding.model.OnboardingPage
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import ir.kaaveh.sdpcompose.sdp
 import ir.kaaveh.sdpcompose.ssp
 

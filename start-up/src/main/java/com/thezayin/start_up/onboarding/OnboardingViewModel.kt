@@ -24,22 +24,22 @@ class OnboardingViewModel(
         OnboardingState(
             pages = listOf(
                 OnboardingPage(
-                    beforeImageRes = com.thezayin.values.R.drawable.boarding_first_before,
-                    afterImageRes = com.thezayin.values.R.drawable.boarding_first_after,
-                    title = application.getString(com.thezayin.values.R.string.blur_natural),
-                    subtitle = application.getString(com.thezayin.values.R.string.blur_natural_desc)
+                    beforeImageRes = com.thezayin.dslrblur.R.drawable.boarding_first_before,
+                    afterImageRes = com.thezayin.dslrblur.R.drawable.boarding_first_after,
+                    title = application.getString(com.thezayin.dslrblur.R.string.blur_natural),
+                    subtitle = application.getString(com.thezayin.dslrblur.R.string.blur_natural_desc)
                 ),
                 OnboardingPage(
-                    beforeImageRes = com.thezayin.values.R.drawable.boarding_second_before,
-                    afterImageRes = com.thezayin.values.R.drawable.boarding_second_after,
-                    title = application.getString(com.thezayin.values.R.string.blur_intensity),
-                    subtitle = application.getString(com.thezayin.values.R.string.blur_intensity_desc)
+                    beforeImageRes = com.thezayin.dslrblur.R.drawable.boarding_second_before,
+                    afterImageRes = com.thezayin.dslrblur.R.drawable.boarding_second_after,
+                    title = application.getString(com.thezayin.dslrblur.R.string.blur_intensity),
+                    subtitle = application.getString(com.thezayin.dslrblur.R.string.blur_intensity_desc)
                 ),
                 OnboardingPage(
-                    beforeImageRes = com.thezayin.values.R.drawable.boarding_third_before,
-                    afterImageRes = com.thezayin.values.R.drawable.boarding_third_after,
-                    title = application.getString(com.thezayin.values.R.string.smooth_edges),
-                    subtitle = application.getString(com.thezayin.values.R.string.smooth_edges_desc)
+                    beforeImageRes = com.thezayin.dslrblur.R.drawable.boarding_third_before,
+                    afterImageRes = com.thezayin.dslrblur.R.drawable.boarding_third_after,
+                    title = application.getString(com.thezayin.dslrblur.R.string.smooth_edges),
+                    subtitle = application.getString(com.thezayin.dslrblur.R.string.smooth_edges_desc)
                 ),
             )
         )

@@ -1,7 +1,7 @@
 package com.thezayin.start_up.splash.state
 
 import com.thezayin.start_up.onboarding.model.OnboardingPage
-import  com.thezayin.values.R
+import  com.thezayin.dslrblur.R
 
 
 data class SplashState(

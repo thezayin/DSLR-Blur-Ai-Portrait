@@ -3,12 +3,12 @@ package com.thezayin.dslrblur.navigation
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.composable
-import com.thezayin.background_blur.BackgroundBlurScreen
-import com.thezayin.presentation.GalleryScreen
-import com.thezayin.start_up.home.HomeScreen
-import com.thezayin.start_up.onboarding.OnboardingScreen
-import com.thezayin.start_up.setting.SettingScreen
-import com.thezayin.start_up.splash.SplashScreen
+import com.thezayin.dslrblur.feature.background_blur.BackgroundBlurScreen
+import com.thezayin.dslrblur.gallery.presentation.GalleryScreen
+import com.thezayin.dslrblur.feature.home.HomeScreen
+import com.thezayin.dslrblur.feature.onboarding.OnboardingScreen
+import com.thezayin.dslrblur.feature.setting.SettingScreen
+import com.thezayin.dslrblur.feature.splash.SplashScreen
 
 @Composable
 fun NavHost(navController: NavHostController) {

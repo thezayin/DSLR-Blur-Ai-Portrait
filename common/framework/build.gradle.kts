@@ -38,7 +38,6 @@ android {
 }
 
 dependencies {
-    implementation(project(":common:analytics"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)

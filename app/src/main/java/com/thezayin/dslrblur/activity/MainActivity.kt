@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.navigation.compose.rememberNavController
-import com.thezayin.analytics.analytics.analytics.Analytics
+import com.thezayin.dslrblur.common.analytics.analytics.Analytics
 import com.thezayin.dslrblur.navigation.NavHost
 import com.thezayin.dslrblur.ui.theme.DSLRBlurTheme
 import com.thezayin.framework.ads.functions.appOpenAd

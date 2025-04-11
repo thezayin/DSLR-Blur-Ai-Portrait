@@ -16,7 +16,7 @@ fun HomeScreenContent(
 ) {
     Scaffold(
         modifier = Modifier,
-        containerColor = colorResource(com.thezayin.values.R.color.black),
+        containerColor = colorResource(com.thezayin.dslrblur.R.color.black),
         topBar = { HomeTopBar(onSettingScreenClick = onSettingScreenClick) },
         bottomBar = {
             EditButton(

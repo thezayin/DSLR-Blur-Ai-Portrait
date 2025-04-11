@@ -25,7 +25,7 @@ import com.thezayin.start_up.splash.component.BottomText
 import com.thezayin.start_up.splash.component.ImageHeader
 import com.thezayin.start_up.splash.component.NoInternetComposable
 import com.thezayin.start_up.splash.event.SplashEvent
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
 
@@ -42,8 +42,6 @@ fun SplashScreen(
 
 
     viewModel.analytics.logEvent(AnalyticsEvent.ScreenViewEvent("SplashScreen"))
-
-    Log.d("SplashScreen", "SplashScreen: ${state.navigateToNextScreen}")
 
     if (state.navigateToNextScreen) {
         activity.appOpenAd(

@@ -14,7 +14,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.unit.dp
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 /**
  * Loading dialog displayed during image processing tasks.

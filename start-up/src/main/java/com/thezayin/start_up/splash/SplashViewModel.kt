@@ -17,7 +17,7 @@ import com.thezayin.framework.pref.PreferencesManager
 import com.thezayin.framework.remote.RemoteConfig
 import com.thezayin.start_up.splash.event.SplashEvent
 import com.thezayin.start_up.splash.state.SplashState
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow

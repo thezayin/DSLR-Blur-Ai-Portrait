@@ -18,7 +18,7 @@ fun ImageHeader(modifier: Modifier) {
         shape = RoundedCornerShape(120.sdp)
     ) {
         Image(
-            painter = painterResource(id = com.thezayin.values.R.drawable.ic_main),
+            painter = painterResource(id = com.thezayin.dslrblur.R.drawable.ic_main),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Fit

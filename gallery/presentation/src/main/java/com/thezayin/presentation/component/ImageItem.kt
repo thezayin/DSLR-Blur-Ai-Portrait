@@ -13,7 +13,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import coil.compose.rememberAsyncImagePainter
 import com.thezayin.domain.model.Image
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 @Composable
 fun ImageItem(

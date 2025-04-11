@@ -22,7 +22,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.thezayin.background_blur.event.AdjustmentMode
 import com.thezayin.background_blur.state.BackgroundBlurState
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 
 /**
  * Composable representing the main content of the Background Blur screen.

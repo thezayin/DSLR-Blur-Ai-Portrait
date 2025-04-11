@@ -18,7 +18,7 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import ir.kaaveh.sdpcompose.sdp
 
 @Composable

@@ -34,7 +34,7 @@ import androidx.compose.ui.res.painterResource
 import coil.compose.rememberAsyncImagePainter
 import com.thezayin.domain.model.Album
 import com.thezayin.presentation.state.GalleryState
-import com.thezayin.values.R
+import com.thezayin.dslrblur.R
 import ir.kaaveh.sdpcompose.sdp
 
 @Composable

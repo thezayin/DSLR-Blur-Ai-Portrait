@@ -34,7 +34,7 @@ val backgroundModule = module {
             minimumFetchIntervalInSeconds = 3600
         }
         remoteConfig.setConfigSettingsAsync(configSettings)
-        remoteConfig.setDefaultsAsync(com.thezayin.values.R.xml.remote_config_defaults)
+        remoteConfig.setDefaultsAsync(com.thezayin.dslrblur.R.xml.remote_config_defaults)
         remoteConfig
     }
 
